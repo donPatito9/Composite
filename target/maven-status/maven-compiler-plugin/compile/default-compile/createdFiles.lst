@@ -1,0 +1,10 @@
+bancocomposite\Empleado.class
+bancocomposite\ISueldo.class
+bancocomposite\SectorAdministrativo.class
+bancocomposite\SectorCajas.class
+bancocomposite\SectorContaduria.class
+bancocomposite\Composite.class
+bancocomposite\SectorGerencia.class
+bancocomposite\TAcomposite.class
+bancocomposite\Banco.class
+bancocomposite\SectorRRHH.class
